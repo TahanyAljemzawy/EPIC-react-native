@@ -1,0 +1,82 @@
+{
+    "headersName":{
+        "home":"الصفحة الرئيسية",
+        "myTeam":"فريقي",
+        "meetingRoom":"غرف الاجتماعات",
+        "profile":"الملف الشخصي",
+        "reservationCard":"الحجز",
+        "map":"الخريطة"
+
+        },
+    "login":{
+        "email":"البريد الالكتروني",
+        "password":"كلمة السر",
+        "login_btn":"ادخل"
+    }, 
+    "drawerNav":{
+        "profile":"الملف الشخصي",
+        "logout_btn":"الخروج",
+        "arabic":"عربي",
+        "english":"انجليزي",
+        "map":"الخريطة"
+    },   
+    "home" :{
+        "checkIn_btn":"مسح للدخول",
+        "checkOut_btn":"مسح للخروج",
+        "viewTeam_btn":"فريقي",
+        "meetingRooms_btn":"غرف الاجتماعات"
+    },
+    "profile":{
+        "email":"البريد الالكتروني",
+        "phoneNumber":"رقم الهاتف",
+        "teamName":"اسم الفريق",
+        "manager":"مدير الفريق"
+    },
+    "myTeam":{
+        "name":"الاسم",
+        "location":"الموقع",
+        "email":"البريد الالكتروني",
+        "phoneNumber":"رقم الهاتف",
+        "checkIn":"متوفر",
+        "checkOut":"غير متوفر"
+    },
+    "meetingsRooms":{
+        "floor":"الطابق",
+        "capacity":"السعة",
+        "equipments":"المعدات"
+    },
+    "reservationCard":{
+        "datePicker":"انقر لتختار التاريخ",
+        "startTime":"وقت البداية",
+        "endTime":"انقر لتختار وقت النهاية",
+        "meetingDuration":"مدة الحجز",
+        "sendReservation_btn":"احجز الان" ,
+        "emailAutocomplete":"ادعو صديقا عبر الايميل" 
+    },
+    "welcomeText":"اهلا يا حلو :*",
+    "Rawan Bazadough":"روان بزادوغ",
+    "Tahany Jimzawy":"تهاني الجمزاوي",
+    "Haneen Ta3amneh":"حنين طعامنة",
+    "Abed Ta3amneh":"عبد طعامنة",
+    "Mahmoud":"محمود",
+    "Mahmoud Hamed" : "محمود حامد",
+    "En.mahmoud Hamed": "محمود حامد",
+    "3-floor":"الطابق الثالث",
+    "2-floor":"الطابق التاني",
+    "Epic Team":"فريق EPIC",
+   "Disappointment Beach Room":"غرفة الشط",
+   "Tiny House Room":"غرفة البيت الصغير",
+   "Dothraki Room":"غرفة الحلوين",
+   "Big Ideas Room": "غرفة الافكار الكبيرة",
+   "Batcave Room":"غرفة بات مان",
+   "Decision Accelerator Room":"غرفة مسرع القرار",
+   "5th":"الطابق الخامس",
+   "4th": "الطابق الرابع",
+   "2th" : "الطابق الثاني",
+   "3th" : "الطابق الثالث",
+   "WhiteBoard, Speakers, and Projector":"لوح ابيض, عارضة الشرائح, اللوح الذذكي",
+   "Data Show, WhiteBoard, Speakers, Projector, and CoffeMaker":", عارض الشرائح,كاشف ضوئي, سماعات, لوح ابيض والة صنع القهوة",
+   "Data Show, WhiteBoard, Speakers, and CoffeMaker":"عارض الشرائح, سماعات, لوح ابيض والة صنع القهوة",
+  "Data Show, WhiteBoard, and Projector":"عارض الشرائح, لوح ابيض وكاشف الضوئي"
+
+}

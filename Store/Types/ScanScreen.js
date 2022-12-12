@@ -1,0 +1,4 @@
+export const SCAN_LOADING = 'SCAN_LOADING';
+export const SCAN_SUCCESS = 'SCAN_SUCCESS';
+export const SCAN_FAILD = 'SCAN_FAILD';
+export const CHECKOUT_SUCCESS = 'CHECKOUT_SUCCESS'

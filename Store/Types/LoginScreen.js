@@ -1,0 +1,6 @@
+export const FETCH_USERS_INFO = 'FETCH_USERS_INFO'
+export const CHECK_LOGIN = 'CHECK_LOGIN';
+export const CHECK_LOGIN_LOADING = 'CHECK_LOGIN_LOADING';
+export const ON_LOGIN_FAILD = 'ON_LOGIN_FAILD';
+export const  ON_LOGOUT ='ON_LOGOUT';
+export const SWITCH_LANGUAGE = 'SWITCH_LANGUAGE';

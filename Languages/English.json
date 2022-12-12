@@ -1,0 +1,81 @@
+{
+    "headersName":{
+        "home":"Home",
+        "myTeam":"my team",
+        "meetingRoom":"meetings rooms",
+        "profile":"profile",
+        "reservationCard":"reservation",
+        "map":"map"
+ 
+    },
+    "login":{
+        "email":"email",
+        "password":"password",
+        "login_btn":"login"
+    }, 
+    "drawerNav":{
+        "profile":"profile",
+        "logout_btn":"logout",
+        "arabic":"arabic",
+        "english":"english",
+        "map":"map"
+    }, 
+    "home" :{
+        "checkIn_btn":"CheckIn",
+        "checkOut_btn":"CheckOut",
+        "viewTeam_btn":"My team",
+        "meetingRooms_btn":"Meeting rooms"
+    },
+    "profile":{
+        "email":"email",
+        "phoneNumber":"phoneNumber",
+        "teamName":"team",
+        "manager":"manager"
+    },
+    "myTeam":{
+        "name":"name",
+        "location":"location",
+        "email":"email",
+        "phoneNumber":"phoneNumber",
+        "checkIn":"check in",
+        "checkOut":"cheack out"
+    },
+    "meetingsRooms":{
+        "floor":"floor",
+        "capacity":"capacity",
+        "equipments":"equipments"
+    },
+    "reservationCard":{
+        "datePicker":"tap to pick the date",
+        "startTime":"start time",
+        "endTime":"end time",
+        "meetingDuration":"meeting duration",
+        "sendReservation_btn":"send reservation",
+        "emailAutocomplete":"invite a friend by email" 
+    },
+    "welcomeText":"hello bb :*",
+    "Rawan Bazadough": "Rawan Bazadough",
+    "Tahany Jimzawy":"Tahany Jimzawy",
+    "Haneen Ta3amneh":"Haneen Ta3amneh",
+    "Abed Ta3amneh":"Abed Ta3amneh",
+    "En.mahmoud Hamed": "Mahmoud Hamed",
+    "Mahmoud":"Mahmoud",
+    "3-floor":"3-floor",
+    "2-floor":"2-floor",
+    "Epic Team":"Epic Team",
+   "Disappointment Beach Room":"Disappointment Beach Room",
+   "Tiny House Room":"Tiny House Room",
+   "Dothraki Room":"Dothraki Room",
+   "Big Ideas Room": "Big Ideas Room",
+   "Batcave Room":"Batcave Room",
+   "Decision Accelerator Room":"Decision Accelerator Room",
+   "5th":"5th",
+   "4th": "4th",
+   "2th" : "2th",
+   "3th" : "3th",
+   "WhiteBoard, Speakers, and Projector":"WhiteBoard, Speakers, and Projector",
+   "Data Show, WhiteBoard, Speakers, Projector, and CoffeMaker": "Data Show, WhiteBoard, Speakers, Projector, and CoffeMaker",
+   "Data Show, WhiteBoard, Speakers, and CoffeMaker":"Data Show, WhiteBoard, Speakers, and CoffeMaker",
+   "Data Show, WhiteBoard, and Projector":"Data Show, WhiteBoard, and Projector"
+
+}

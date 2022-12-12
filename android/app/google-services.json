@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "315899257599",
+    "project_id": "epic-i-am-here",
+    "storage_bucket": "epic-i-am-here.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315899257599:android:8b611f1a447c771ccf62ca",
+        "android_client_info": {
+          "package_name": "com.aspireattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315899257599-qcbo65l60r4tppsje1h75ert4lu3dsgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ8AW2p2WfEkIZmrbTOgrhtsHsUqUqS5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315899257599-qcbo65l60r4tppsje1h75ert4lu3dsgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
